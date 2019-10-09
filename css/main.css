@@ -1,7 +1,22 @@
 *, *:before, *:after {
 	box-sizing: border-box;
 }
-
+.pd-sct{
+    padding: 8% 0 !important;
+    margin: 0 25px;
+  }
+  .margenL{
+  	margin-left: 20px;
+  }
+.paragraff{
+	font-size: 15px;
+}
+.process-design{
+	background: #edf1f4;
+}
+.txt-sub{
+	padding: 5%;
+}
 .blocker {
   position: fixed;
   top: 0; right: 0; bottom: 0; left: 0;
